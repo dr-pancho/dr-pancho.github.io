@@ -1,0 +1,13 @@
+{
+  "addresses": [
+    {
+      "paymentNetwork": "XRPL",
+      "environment": "MAINNET",
+      "addressDetailsType": "CryptoAddressDetails",
+      "addressDetails": {
+        "address": "XVUWukRJQLN89w8kHtMUcFRvV2YxMcgJAY8m2v6qCzALG9i"
+      }
+    }
+  ],
+  "payId": "pancho$dr-pancho.github.io"
+}
